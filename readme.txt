@@ -25,7 +25,7 @@ Your ratings make a big difference. If you like Plugins Site Menu Link, please c
 
 - Other [WordPress plugins](http://profiles.wordpress.org/sebd86/) by [Sébastien Dumont](https://sebastiendumont.com/)
 - Contact Sébastien on Twitter: [@sebd86](http://twitter.com/sebd86)
-- If you're a developer yourself, follow or contribute to the [Attachment Slug plugin on GitHub](https://github.com/seb86/Attachment-Slug)
+- If you're a developer yourself, follow or contribute to the [Plugins Site Menu Link plugin on GitHub](https://github.com/seb86/Plugins-Site-Menu-Link)
 
 == Installation ==
 
